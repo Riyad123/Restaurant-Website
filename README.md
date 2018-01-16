@@ -1,3 +1,3 @@
 Restaurant-Website Screenshot
 
-  <img src="img/screenshot.png"  width="300">
+  <img src="img/screenshot.png"  width="900">
